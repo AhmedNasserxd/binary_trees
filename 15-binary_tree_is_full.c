@@ -5,7 +5,7 @@
  * @tree: pointer to use
  *
  * Return: 1 if the tree is complete
- *         0 if tree is NULL or not complete    
+ *         0 if tree is NULL or not complete
  */
 int binary_tree_is_full(const binary_tree_t *tree)
 {
