@@ -1,5 +1,6 @@
 #include "binary_trees.h"
 
+bst_t *bst_min_val(bst_t *root);
 /**
  * bst_remove - to delete a node from BST
  * @root: pointer to the node's root
